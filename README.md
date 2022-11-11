@@ -2,7 +2,7 @@
 
 Este repositorio contiene todos los pasos de la realización del API Rest Server.
 En esta API desarrollamos la lógica de la cafetería C13 en JavaScript, en donde se afianzaron los conocimientos 
-de cada una de las estructuras (ciclos, condicionales, arreglos, metodos, e.t.c) y manejo de la herramienta Visual Studio Code
+de cada una de las estructuras (ciclos, condicionales, arreglos, métodos, e.t.c) y manejo de la herramienta Visual Studio Code
 implementando end points de crear, actualizar, leer y eliminar para los siguientes modelos:
 
 - Usuario
